@@ -1,6 +1,9 @@
 ## Update!
 I recently removed and reorganized redundant settings and plugins, and put it on another repository https://github.com/kaochenlong/eddie-vim2
 
+go on
+
+
 ## Intro
 My personal Vim configurations and some plugins which I used in my daily job.
 
